@@ -1,0 +1,10 @@
+.error-feedback {
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: #dc3545;
+}
+
+.swal2-container {
+  z-index: 1006;
+}
