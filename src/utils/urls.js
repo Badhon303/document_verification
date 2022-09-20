@@ -5,5 +5,5 @@ export const BASE_URL =
 
 export const QR_URL =
   process.env.REACT_APP_ENV === "dev"
-    ? "http://44.202.8.142:3000"
+    ? "http://35.173.200.233:3000"
     : "http://localhost:3000"
